@@ -1,0 +1,353 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<data>
+   <country name="Albania">
+      <area>28748</area>
+      <capital>Tirana</capital>
+      <population>2876276</population>
+      <gdppc>5215</gdppc>
+   </country>
+   
+   <country name="Andorra">
+      <area>468</area>
+      <capital>Andorra la Vella</capital>
+      <population>78000</population>
+      <gdppc>40897</gdppc>
+   </country>
+   
+   <country name="Armenia">
+      <area>29743</area>
+      <capital>Yerevan</capital>
+      <population>2925000</population>
+      <gdppc>4267</gdppc>
+   </country>
+   
+   <country name="Austria">
+      <area>83871</area>
+      <capital>Vienna</capital>
+      <population>8857960</population>
+      <gdppc>48105</gdppc>
+   </country>
+   
+   <country name="Azerbaijan">
+      <area>86600</area>
+      <capital>Baku</capital>
+      <population>10184096</population>
+      <gdppc>4214</gdppc>
+   </country>
+   
+   <country name="Belarus">
+      <area>207600</area>
+      <capital>Minsk</capital>
+      <population>9491800</population>
+      <gdppc>6411</gdppc>
+   </country>
+   
+   <country name="Belgium">
+      <area>30528</area>
+      <capital>Brussels</capital>
+      <population>11614238</population>
+      <gdppc>44594</gdppc>
+   </country>
+   
+   <country name="Bosnia and Herzegovina">
+      <area>51197</area>
+      <capital>Sarajevo</capital>
+      <population>3511372</population>
+      <gdppc>6031</gdppc>
+   </country>
+   
+   <country name="Bulgaria">
+      <area>110879</area>
+      <capital>Sofia</capital>
+      <population>6923374</population>
+      <gdppc>9975</gdppc>
+   </country>
+   
+   <country name="Croatia">
+      <area>56594</area>
+      <capital>Zagreb</capital>
+      <population>4093108</population>
+      <gdppc>13828</gdppc>
+   </country>
+   
+   <country name="Cyprus">
+      <area>9251</area>
+      <capital>Nicosia</capital>
+      <population>1172458</population>
+      <gdppc>26623</gdppc>
+   </country>
+   
+   <country name="Czech Republic">
+      <area>78867</area>
+      <capital>Prague</capital>
+      <population>10625449</population>
+      <gdppc>22762</gdppc>
+   </country>
+   
+   <country name="Denmark">
+      <area>2210000</area>
+      <capital>Copenhagen</capital>
+      <population>5806015</population>
+      <gdppc>60908</gdppc>
+   </country>
+   
+   <country name="Estonia">
+      <area>45228</area>
+      <capital>Tallin</capital>
+      <population>1326968</population>
+      <gdppc>23312</gdppc>
+   </country>
+   
+   <country name="Finland">
+      <area>338145</area>
+      <capital>Helsinki</capital>
+      <population>5544903</population>
+      <gdppc>49041</gdppc>
+   </country>
+   
+   <country name="France">
+      <area>643427</area>
+      <capital>Paris</capital>
+      <population>65343775</population>
+      <gdppc>38625</gdppc>
+   </country>
+   
+   <country name="Georgia">
+      <area>69700</area>
+      <capital>Tiblisi</capital>
+      <population>4085565</population>
+      <gdppc>4278</gdppc>
+   </country>
+   
+   <country name="Germany">
+      <area>357022</area>
+      <capital>Berlin</capital>
+      <population>83914472</population>
+      <gdppc>45723</gdppc>
+   </country>
+   
+   <country name="Greece">
+      <area>131957</area>
+      <capital>Athens</capital>
+      <population>10398551</population>
+      <gdppc>17676</gdppc>
+   </country>
+   
+   <country name="Hungary">
+      <area>93028</area>
+      <capital>Budapest</capital>
+      <population>9648503</population>
+      <gdppc>15899</gdppc>
+   </country>
+   
+   <country name="Iceland">
+      <area>103000</area>
+      <capital>Reykjavik</capital>
+      <population>350710</population>
+      <gdppc>59260</gdppc>
+   </country>
+   
+   <country name="Ireland">
+      <area>70273</area>
+      <capital>Dublin</capital>
+      <population>4857000</population>
+      <gdppc>83812</gdppc>
+   </country>
+   
+   <country name="Italy">
+      <area>301340</area>
+      <capital>Rome</capital>
+      <population>60494118</population>
+      <gdppc>31676</gdppc>
+   </country>
+   
+   <country name="Kazakhstan">
+      <area>2724900</area>
+      <capital>Nur-Sultan</capital>
+      <population>18311700</population>
+      <gdppc>9055</gdppc>
+   </country>
+   
+   <country name="Latvia">
+      <area>64589</area>
+      <capital>Riga</capital>
+      <population>1934379</population>
+      <gdppc>17620</gdppc>
+   </country>
+   
+   <country name="Liechtenstein">
+      <area>160</area>
+      <capital>Vaduz</capital>
+      <population>38111</population>
+      <gdppc>180367</gdppc>
+   </country>
+   
+   <country name="Lithuania">
+      <area>65300</area>
+      <capital>Vilnius</capital>
+      <population>2797000</population>
+      <gdppc>19998</gdppc>
+   </country>
+   
+   <country name="Luxembourg">
+      <area>2586</area>
+      <capital>Luxembourg</capital>
+      <population>602000</population>
+      <gdppc>115874</gdppc>
+   </country>
+   
+   <country name="Malta">
+      <area>316</area>
+      <capital>Valletta</capital>
+      <population>475700</population>
+      <gdppc>27885</gdppc>
+   </country>
+   
+   <country name="Moldova">
+      <area>33851</area>
+      <capital>Chisinau</capital>
+      <population>3350900</population>
+      <gdppc>4551</gdppc>
+   </country>
+   
+   <country name="Monaco">
+      <area>2</area>
+      <capital>Monaco</capital>
+      <population>37000</population>
+      <gdppc>190513</gdppc>
+   </country>
+   
+   <country name="Montenegro">
+      <area>13812</area>
+      <capital>Podgorica</capital>
+      <population>642550</population>
+      <gdppc>7686</gdppc>
+   </country>
+   
+   <country name="Netherlands">
+      <area>41543</area>
+      <capital>Amsterdam</capital>
+      <population>17272990</population>
+      <gdppc>52304</gdppc>
+   </country>
+   
+   <country name="North Macedonia">
+      <area>25713</area>
+      <capital>Skopje</capital>
+      <population>2075301</population>
+      <gdppc>5888</gdppc>
+   </country>
+   
+   <country name="Norway">
+      <area>323802</area>
+      <capital>Oslo</capital>
+      <population>5323933</population>
+      <gdppc>67294</gdppc>
+   </country>
+   
+   <country name="Poland">
+      <area>312685</area>
+      <capital>Warsaw</capital>
+      <population>38433600</population>
+      <gdppc>15656</gdppc>
+   </country>
+   
+   <country name="Portugal">
+      <area>92090</area>
+      <capital>Lisbon</capital>
+      <population>10291196</population>
+      <gdppc>22440</gdppc>
+   </country>
+   
+   <country name="Romania">
+      <area>238391</area>
+      <capital>Bucharest</capital>
+      <population>19622000</population>
+      <gdppc>12896</gdppc>
+   </country>
+   
+   <country name="Russia">
+      <area>17098242</area>
+      <capital>Moscow</capital>
+      <population>144526636</population>
+      <gdppc>10127</gdppc>
+   </country>
+   
+   <country name="San Marino">
+      <area>61</area>
+      <capital>San Marino</capital>
+      <population>32742</population>
+      <gdppc>47731</gdppc>
+   </country>
+   
+   <country name="Serbia">
+      <area>88361</area>
+      <capital>Belgrade</capital>
+      <population>8720394</population>
+      <gdppc>7666</gdppc>
+   </country>
+   
+   <country name="Slovakia">
+      <area>49035</area>
+      <capital>Bratislava</capital>
+      <population>5445087</population>
+      <gdppc>19157</gdppc>
+   </country>
+   
+   <country name="Slovenia">
+      <area>20273</area>
+      <capital>Ljubljana</capital>
+      <population>2070050</population>
+      <gdppc>25180</gdppc>
+   </country>
+   
+   <country name="Spain">
+      <area>505370</area>
+      <capital>Madrid</capital>
+      <population>47720291</population>
+      <gdppc>27057</gdppc>
+   </country>
+   
+   <country name="Sweden">
+      <area>450295</area>
+      <capital>Stockholm</capital>
+      <population>10221988</population>
+      <gdppc>51926</gdppc>
+   </country>
+   
+   <country name="Switzerland">
+      <area>41277</area>
+      <capital>Bern</capital>
+      <population>8685688</population>
+      <gdppc>86602</gdppc>
+   </country>
+   
+   <country name="Turkey">
+      <area>783562</area>
+      <capital>Ankara</capital>
+      <population>84786000</population>
+      <gdppc>8538</gdppc>
+   </country>
+   
+   <country name="Ukraine">
+      <area>603550</area>
+      <capital>Kyiv</capital>
+      <population>44291413</population>
+      <gdppc>3727</gdppc>
+   </country>
+   
+   <country name="United Kingdom">
+      <area>243610</area>
+      <capital>London</capital>
+      <population>68060502</population>
+      <gdppc>40285</gdppc>
+   </country>
+   
+   <country name="Vatican City">
+      <area>0.44</area>
+      <capital>Vatican City</capital>
+      <population>842</population>
+      <gdppc>21198</gdppc>
+   </country>
+   
+</data>
